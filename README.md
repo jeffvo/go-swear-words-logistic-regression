@@ -11,7 +11,7 @@ The profanity list used in this project is sourced from:
 
 To install and run this project, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository
 2. Install the required dependencies:
    ```sh
    go mod tidy
