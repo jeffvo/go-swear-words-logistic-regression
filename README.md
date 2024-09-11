@@ -7,16 +7,6 @@ This project implements a logistic regression model to detect swear words in tex
 The profanity list used in this project is sourced from:
 [Surge AI Profanity List](https://github.com/surge-ai/profanity)
 
-## Installation
-
-To install and run this project, follow these steps:
-
-1. Clone the repository
-2. Install the required dependencies:
-   ```sh
-   go mod tidy
-   ```
-
 ## Usage
 
 To train the model and run predictions, follow these steps:
